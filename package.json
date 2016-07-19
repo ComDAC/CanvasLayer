@@ -1,6 +1,6 @@
 {
   "name": "canvaslayer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A <canvas> map layer for the Google Maps JavaScript API v3 for 2d and WebGL data visualization",
   "main": "src/CanvasLayer.js",
   "directories": {
