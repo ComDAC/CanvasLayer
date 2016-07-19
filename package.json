@@ -1,0 +1,28 @@
+{
+  "name": "canvaslayer",
+  "version": "1.0.0",
+  "description": "A <canvas> map layer for the Google Maps JavaScript API v3 for 2d and WebGL data visualization",
+  "main": "src/CanvasLayer.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshcarr/CanvasLayer.git"
+  },
+  "keywords": [
+    "googlemaps",
+    "canvas",
+    "webgl"
+  ],
+  "author": "Brendan Kenny",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/joshcarr/CanvasLayer/issues"
+  },
+  "homepage": "https://github.com/joshcarr/CanvasLayer"
+}
